@@ -4,8 +4,8 @@ using namespace std;
 int main()
 {
 
-  int x = 0;
-  int y = 0;
+  float x = 0;
+  float y = 0;
   
   cout << "Please enter the first number:";
   cin >> x;
